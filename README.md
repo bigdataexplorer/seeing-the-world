@@ -19,8 +19,6 @@ According to WHO, there are 253 million people live with vision impairment. 217 
 >Even though Microsoft's Seeing AI mobile app is very powerful but its fruit/vegetable recognition skill still needs improvement. 
 
 See some examples below. 
-![Image of Incorrect Classification 1](images_in_readme/corn.PNG)
-![Image of Incorrect Classification 2](images_in_readme/tomato.PNG)
 
 |              |             |
 :-------------------------:|:-------------------------:
