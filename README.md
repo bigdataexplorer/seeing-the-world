@@ -22,7 +22,7 @@ See some examples below.
 
 |              |             |
 :-------------------------:|:-------------------------:
-![](mages_in_readme/corn.PNG)  |  ![](mages_in_readme/tomato.PNG)
+![](images_in_readme/corn.PNG)  |  ![](images_in_readme/tomato.PNG)
 
 
 We want to help improve Microsoft Seeing AI's fruit/vegetable recognition capability by curating training dataset of fruit/vegetable across the entire world. Crowdsourcing of this dataset from across the world is important so that it will capture different variety of local fruits/vegetables across geography.
